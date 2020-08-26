@@ -1,8 +1,9 @@
 # Olympic Analysis:
 
-This repository is about the Olympic Analysis in which I have analysed and visualized the dataset of both the summer and winter games.
-
 ![2018-winter-olympics-summer-olympic-games-pyeongchang-county-2028-summer-olympics-karate](https://user-images.githubusercontent.com/64386278/91306043-a15eaa80-e7c9-11ea-96b0-a777f6685e8b.jpg)
+
+
+This repository is about the Olympic Analysis in which I have analysed and visualized the dataset of both the summer and winter games.
 
 # The Data:
 
